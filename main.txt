@@ -4,3 +4,7 @@ testing git diff
 
 testing 
 checking something
+i
+
+
+i am checking rebase
